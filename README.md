@@ -1,4 +1,4 @@
-# Financey
+# Financey API
 
 Links:
 - https://project-financy.onrender.com
