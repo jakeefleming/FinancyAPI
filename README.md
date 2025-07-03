@@ -12,7 +12,7 @@ We had a section called "calls" that we decided to take out of the frontend beca
 
 ## Architecture
 
-We will created a REST API using an Express.js server with a MongoDB database via Mongoose.
+We created a REST API using an Express.js server with a MongoDB database via Mongoose.
 
 We also use to include authentication via Google to be able to send emails and read responses through our service. For this, we will use Google API OAuth 2.0. We will store the necessary tokens in MongoDB. For our Gmail API integration, we will use Google APIs Node.js client.
 
