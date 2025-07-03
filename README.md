@@ -1,10 +1,8 @@
 # Financey
 
 Links:
-https://project-financy.onrender.com
-https://project-api-financy.onrender.com
-
-![Team Photo](https://i.ibb.co/GfVPw4mm/Screenshot-2025-05-15-at-1-50-03-PM.png)
+- https://project-financy.onrender.com
+- https://project-api-financy.onrender.com
 
 This backend will serve our finance focused personal CRM. It will be used to store the data for each user, 
 including their contacts, resumes, events, meeting notes, applications, email templates, to-do items, etc.
