@@ -1,5 +1,6 @@
 # Financy API
 
+Using Google Chrome:
 https://project-financy.onrender.com
 
 This backend will serve our finance focused personal CRM. It will be used to store the data for each user, 
